@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Logo.qml</file>
+        <file>images/avatar.png</file>
+        <file>Tablelist.qml</file>
+        <file>images/blackground.png</file>
+        <file>images/headermenu.png</file>
+        <file>Header.qml</file>
+        <file>LeftWindows.qml</file>
+        <file>RightUpWindows.qml</file>
+        <file>ButtonPic.qml</file>
+        <file>BlockPic.qml</file>
+        <file>images/test.png</file>
+        <file>RightDownWindows.qml</file>
+        <file>images/test1.png</file>
+        <file>images/test2.png</file>
+        <file>images/test3.png</file>
+        <file>images/test4.png</file>
+        <file>images/test5.png</file>
+        <file>images/freewifi.jpg</file>
+        <file>InputWifiName.qml</file>
+        <file>images/wifi.png</file>
+        <file>NetFlowShow.qml</file>
+    </qresource>
+</RCC>
